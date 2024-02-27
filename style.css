@@ -114,7 +114,7 @@ img {
     /* image div */
     .pic {
         display: flex;
-        object-fit: contain;
+        object-fit: fill;
         border-radius: 7px;
         width: 100%;
         justify-content: center;
