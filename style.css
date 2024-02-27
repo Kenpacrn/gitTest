@@ -107,6 +107,10 @@ img {
         flex-direction: column;
     }
 
+    body {
+        height: 50vh;
+    }
+
     /* image div */
     .pic {
         display: flex;
