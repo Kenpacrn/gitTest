@@ -110,7 +110,7 @@ img {
     body {
         place-items: center;
         display: flex;
-        font-size: medium;
+        font-size: larger;
     }
 
     /* image div */
