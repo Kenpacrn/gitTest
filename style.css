@@ -21,8 +21,7 @@ body {
     font-family: sans-serif;
     display: flex;
     align-items: center;
-    justify-content: center;
-    
+    justify-content: left;
     width: 100%;
     height: 100%;
     margin: auto 0;
@@ -106,6 +105,10 @@ img {
     /* parent div */
     .work {
         flex-direction: column;
+    }
+
+    body {
+        place-items: center;
     }
 
     /* image div */
