@@ -115,8 +115,10 @@ img {
 
     /* image div */
     .pic {
-        display: flexbox;
+        display: flex;
+        object-fit: contain;
         border-radius: 7px;
+        width: 100%;
         justify-content: center;
         align-content: center;
     }
