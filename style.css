@@ -107,12 +107,6 @@ img {
         flex-direction: column;
     }
 
-    body {
-        place-items: center;
-        display: flex;
-        font-size: larger;
-    }
-
     /* image div */
     .pic {
         display: flex;
