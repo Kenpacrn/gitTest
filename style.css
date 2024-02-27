@@ -113,10 +113,11 @@ img {
 
     /* image div */
     .pic {
-        width: 100%;
-        object-fit: fill;
-        display: flex;
+
+        border-radius: 7px;
+        display: block;
         justify-content: center;
+        align-items: center;
     }
 
     .wordings {
