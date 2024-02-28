@@ -111,7 +111,7 @@ img {
     }
 
     /* image div */
-    .pic {
+    img {
         display: block;
         object-fit: scale-down;
         border-radius: 7px;
