@@ -106,19 +106,16 @@ img {
     .work {
         flex-direction: column;
         display: flex;
-        align-content: center;
+        align-items: center;
         justify-content: center;
     }
 
     /* image div */
     img {
-        display: block;
-        object-fit: scale-down;
         border-radius: 7px;
-        width: 0;
-        height: 0;
-        justify-content: center;
-        align-content: center;
+        max-width: 100%;
+        height: auto;
+        margin: 10px 0;
     }
 
     .wordings {
