@@ -115,8 +115,8 @@ img {
         display: block;
         object-fit: scale-down;
         border-radius: 7px;
-        width: auto;
-        height: auto;
+        width: 0;
+        height: 0;
         justify-content: center;
         align-content: center;
     }
