@@ -113,7 +113,7 @@ img {
     /* image div */
     .pic {
         display: block;
-        object-fit: contain;
+        object-fit: scale-down;
         border-radius: 7px;
         width: auto;
         height: auto;
