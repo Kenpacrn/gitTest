@@ -80,7 +80,7 @@ img {
     display: flex;
     flex-direction: column;
     color: white;
-    background-color: #063251;;
+    background-color: #063251;
     text-align: center;
     padding: 2%;
     margin: 5%;
@@ -116,10 +116,11 @@ img {
 
     /* image div */
     .pic {
-        display: flex;
-        object-fit: fill;
+        display: block;
+        object-fit: cover;
         border-radius: 7px;
-        width: 10%, 10%, 10%, 10%;
+        width: 100%;
+        height: auto;
         justify-content: center;
         align-content: center;
     }
