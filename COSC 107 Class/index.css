@@ -1,0 +1,31 @@
+
+
+p{
+    color: red;
+}
+.p1{
+    color: aqua;
+}
+.p3{
+    color: brown;
+}
+.p4{
+    color: orangered;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    background-color: #96D4D4;
+    border-radius: 10px;
+}
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+table {
+    border-spacing: 30px;
+}

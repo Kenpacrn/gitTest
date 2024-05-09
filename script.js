@@ -7,7 +7,7 @@ const $days = $('day-time');
 const $hours = $('hours-time');
 const $minutes = $('minutes-time');
 const $seconds = $('seconds-time');
-const targetDate = new Date('2024-03-10T00:00:00');
+const targetDate = new Date('2024-10-10T00:00:00');
 //const targetDate = new Date()
 //targetDate.setDate(targetDate.getDate() + 10);
 //targetDate.setHours(23, 59, 0);
